@@ -11,12 +11,18 @@ The data confirms that crashes are occurring on the bridge at a higher rate sinc
 completion of the project in April 2016, showing an 2.7x increase.
 
 ```
-|        |     *date* |            |             | *accidents* |            |
-| period |      start |        end | range, days |       count | count/days |
-|--------+------------+------------+-------------+-------------+------------|
-| before | 2007-01-28 | 2010-12-28 |        1430 |         205 |      0.143 |
-| after  | 2016-04-03 | 2018-12-26 |         997 |         391 |      0.392 |
+|        |     *date* |            |             | *crashes* |            |
+| period |      start |        end | range, days |     count | count/days |
+|--------+------------+------------+-------------+-----------+------------|
+| before | 2007-01-28 | 2010-12-28 |        1430 |       205 |      0.143 |
+| after  | 2016-04-03 | 2018-12-26 |         997 |       391 |      0.392 |
 
 ```
 
-![crashes-before-vs-after](./gif/crashes.gif)
+**crashes by year/quarter before and after the bridge redo**
+
+![crashes-before-vs-after](./pics/crashes-before-vs-after.png)
+
+**gif of crashes by month on the old/new bridge**
+
+![crash-gif](./gif/crashes.gif)

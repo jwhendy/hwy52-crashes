@@ -19,4 +19,4 @@ completion of the project in April 2016, showing an 2.7x increase.
 
 ```
 
-![accidents-before-vs-after](./accident-animation.gif)
+![crashes-before-vs-after](./gif/crashes.gif)
